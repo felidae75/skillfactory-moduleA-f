@@ -629,7 +629,7 @@ body {
 }
 
 .head-intro {
-	font-size: 5vw;
+	font-size: 7vw;
 }
 
 .intro-right {
@@ -654,6 +654,10 @@ body {
 	width: 50%;
 }
 
+.do-you-know-h {
+	font-size: 5vw;
+}
+
 .do-you-know-right {
 	width: 50%;
 }
@@ -664,6 +668,10 @@ body {
 
 .hr1 {
 	width: 100%;
+}
+
+.feature-products-h h2 {
+	font-size: 5vw;
 }
 
 .feature-products-menu {
@@ -682,8 +690,16 @@ body {
 	padding-left: 1vh;
 }
 
+.team h2 {
+	font-size: 5vw;
+}
+
 .team-photos {
 	padding-left: 1vh;
+}
+
+.mark-info h2 {
+	font-size: 5vw;
 }
 
 .team-photos-right {
@@ -699,6 +715,10 @@ body {
 	padding-left: 1vh;
 }
 
+.get-in-touch h2 {
+	font-size: 5vw;
+}
+
 .subscribe-text h2 {
 	line-height: 135%;
 }
@@ -712,6 +732,9 @@ body {
 	padding-left: 1vh;
 }
 
+.footer-content p {
+	padding-left: 1vh;
+}
 
 }
 
